@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "1LFhSRDQ#3IL8uyutnCHXX-1yL8eXnOT5kb_Gts01m-WUTwg7P00",
+      "description": "h7lnGA4C#tuzjXJTwSBdfE1i8CTQEN6bHzL785TvT4QPZ79k3Ldg",
       "required": true,
       "value": "true"
     },  
@@ -54,13 +54,13 @@
     "ADMIN_STATUS": {
       "description": "make it true if want know who promote or demote a member .",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
 
     "WELCOME": {
       "description": "make it true if want welcome message in groups.",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     
    "GOODBYE": {
@@ -102,7 +102,7 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS JUST NOW ALI-MD 🍒*"
+      "value": "*SEEN YOUR STATUS JUST NOW 𝐷𝐵𝑌☆🍒*"
    
      }, 
 
